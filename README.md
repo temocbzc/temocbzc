@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Ignacio Cuauhtémoc Benítez Zúñiga
+Profesor at the National School College of Sciences and Humanities, Pre-University School and Faculty of Engineering, UNAM 
+
+- 🔭 I’m currently working on RF MEMS, Antenna arrays, Microwave and millimeter-wave circuits, FEM and educational innovation.
+- 🌱 I’m currently learning about Finite Element Method & Julia and Python Programing
+- 👯 I’m looking to collaborate on Julia and Python Progrming, specifically about Finite Element Method applied in Electromagnetics.
+- 🤔 I’m looking for help with Julia and Python Programing.
+- 💬 Ask me about RF MEMS
+- 📫 How to reach me: ignacio.benitez@cch.unam.mx
+- ⚡ Fun fact: I like a lot to practice Triathlon, I'm three times Iron Man triathlete.
 
 <!--
 **temocbzc/temocbzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
